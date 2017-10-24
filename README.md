@@ -5,7 +5,6 @@ Apache® Spark™ for Machine Learning and Data Science
 **Create and transform** 
 
 - DataFrames to query large datasets.
-
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6974851263301701/193175068117394/6267955876615859/latest.html
 
 - Improve performance through judicious use of caching and applying best practices.
