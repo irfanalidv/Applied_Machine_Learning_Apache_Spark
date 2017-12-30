@@ -7,6 +7,8 @@ Apache® Spark™ for Machine Learning and Data Science
 - DataFrames to query large datasets.
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6974851263301701/193175068117394/6267955876615859/latest.html
 
+- Data Manipulation https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6974851263301701/3830219129576256/6267955876615859/latest.html
+
 - Improve performance through judicious use of caching and applying best practices.
 - Visualize how jobs are broken into stages and tasks and executed within Spark.
 - Troubleshoot errors and program crashes using Spark UI, executor logs, driver stack traces, and local-mode runtimes.
