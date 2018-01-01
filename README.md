@@ -40,3 +40,9 @@ Apache® Spark™ for Machine Learning and Data Science
 - Evaluate model accuracy with cross validation, ROC curves, and RSME.
 - Tune training hyper-parameters by integrating cross-validation and grid search into Spark ML Pipelines.
 - Troubleshoot and tune machine learning algorithms in Spark
+
+Projects : 
+
+[Customer_Churn_Prediction](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6974851263301701/2014520085326770/6267955876615859/latest.html)
+
+
