@@ -3,7 +3,7 @@ Apache® Spark™ for Machine Learning and Data Science
 
 **Spark SQL**
 
--Transforming Complex Data Types
+- Transforming Complex Data Types
 
 **Create and transform** 
 
