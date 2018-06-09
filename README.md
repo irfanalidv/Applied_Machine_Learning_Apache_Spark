@@ -4,6 +4,7 @@ Apache® Spark™ for Machine Learning and Data Science
 **Spark SQL**
 
 - [Transforming Complex Data Types](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6974851263301701/2183139256017506/6267955876615859/latest.html)
+- [Higher Order SQL Functions](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6974851263301701/2183139256017539/6267955876615859/latest.html)
 
 **Create and transform** 
 
